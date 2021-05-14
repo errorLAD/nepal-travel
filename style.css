@@ -1,0 +1,19 @@
+
+.w3-sidebar a {font-family: "Inconsolata", sans-serif}
+body,h1,h2,h3,h4,h5,h6,.w3-wide,.bar {font-family: "Inconsolata", sans-serif;}
+.logo{
+  color:black ;
+}
+.logosmall{
+
+}
+.items{
+color:red;
+background-color:black;
+padding:1%;
+
+}
+.bar{
+  font-family: "Inconsolata", sans-serif
+  background-color: red;
+}
